@@ -1,5 +1,8 @@
 # Azure-WVD
 
+Compilation of good links and references related to the new WVD ARM. 
+<br>
+
 | Topic    	| Recommendation    	| References  	|
 |-	|-	|-	|
 | **WVD Spring Update - News and Updates**    	| Novidades sobre   Virtualização de Desktops no Azure    	| - Novidades sobre Virtualização de Desktops no Azure    <br>From    <https://www.youtube.com/watch?v=WlQKvJQD6m4&feature=youtu.be><br><br>- New Windows Virtual Desktop capabilities now generally available    <br>From    <https://azure.microsoft.com/en-us/blog/new-windows-virtual-desktop-capabilities-now-generally-available/> 	|
