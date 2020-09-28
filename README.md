@@ -1,6 +1,7 @@
-# Azure-WVD
+# Azure Windows Virtual Desktop - WVD
 
-Compilation of good links and references related to the new WVD ARM. 
+Compilation of good links and references related to the new version of Azure WVD ARM. 
+<br>
 <br>
 
 | Topic    	| Recommendation    	| References  	|
